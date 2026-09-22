@@ -15,8 +15,8 @@ Ingeniería de Sistemas · UNAB · Colombia
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| [Proyecto-de-grado](https://github.com/Andrejulian21/Proyecto-de-grado) | Plataforma web para gestionar proyectos de grado de Ingeniería de Sistemas (UNAB): inscripción, entregas versionadas, bitácoras firmadas, evaluación por roles y reportes. | Laravel 11 · PHP · React 19 · TypeScript · Tailwind · PostgreSQL · Docker |
-| [Charlando-ando](https://github.com/Andrejulian21/Charlando-ando) | App de chat tipo Discord con mensajería en tiempo real, autenticación con Google y canales públicos/privados. | JavaScript · Tiempo real · Google OAuth |
+| [Proyecto-de-grado](https://github.com/Andrejulian21/Proyecto-de-grado) ([demo](https://sistemacentralizadodeproyectosdegrado.pisis.link)) | Plataforma web para gestionar proyectos de grado de Ingeniería de Sistemas (UNAB): inscripción, entregas versionadas, bitácoras firmadas, evaluación por roles y reportes. | Laravel 11 · PHP · React 19 · TypeScript · Tailwind · PostgreSQL · Docker |
+| [Charlando-ando](https://github.com/Andrejulian21/Charlando-ando) ([demo](https://charlando-ando.onrender.com)) | App de chat tipo Discord con mensajería en tiempo real, autenticación con Google y canales públicos/privados. | JavaScript · Tiempo real · Google OAuth |
 | [Hirewise](https://github.com/Andrejulian21/Hirewise) | Aplicación de gestión de contratación con estructura por roles, migraciones y pipeline de frontend con Vite. | Laravel · PHP · Blade · MySQL |
 | [ErizoHub](https://github.com/zquintero246/ErizoHub) (colaborador) | Aplicación móvil nativa Android. Desarrollo colaborativo con historial activo de versiones. | Kotlin · Android · Gradle |
 
