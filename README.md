@@ -2,7 +2,7 @@
 
 Ingeniería de Sistemas · UNAB · Colombia
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JulianArteaga-0A66C2)](https://www.linkedin.com/in/julian-andres-art) [![GitHub](https://img.shields.io/badge/GitHub-Andrejulian21-181717)](https://github.com/Andrejulian21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JulianArteaga-0A66C2)](https://www.linkedin.com/in/julian-andres-art) 
 
 ## Sobre mí
 
